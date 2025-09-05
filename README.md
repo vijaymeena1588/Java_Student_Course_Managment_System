@@ -1,6 +1,6 @@
 # Java Student Course Management System
 
-This is a basic Student Course Management System built using **Java** and **Spring Boot**. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on student records. It uses **Maven** for dependency management and stores data in a **MySQL** database.
+This is a Student Course Management System built using **Java** and **Spring Boot**. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on student records. It uses **Maven** for dependency management and stores data in a **MySQL** database.
 
 The purpose of this project is to serve as a simple, clear example for learning how to build a full-stack Java application with a RESTful API and a front-end for data interaction.
 
