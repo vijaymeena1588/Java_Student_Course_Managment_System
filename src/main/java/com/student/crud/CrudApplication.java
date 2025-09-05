@@ -1,5 +1,5 @@
 package com.student.crud;
-//trying to pull
+//trying to pull -> replied working
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
