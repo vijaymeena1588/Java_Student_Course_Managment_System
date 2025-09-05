@@ -80,12 +80,11 @@ You will see the main page where you can manage student records.
 * `src/main/resources/templates/`: Contains the HTML templates rendered by Thymeleaf.
 * `pom.xml`: The Maven build file.
 
-## How to Run
-*Start Database: Open XAMPP and start the MySQL module.
+## How to Run  
 
-*Run in Eclipse: In Eclipse, right-click CrudApplication.java and select Run As > Spring Boot App.
-
-*Access in Browser: Open a web browser and go to http://localhost:8081/students/list.
+- **Start Database**: Open XAMPP and start the MySQL module.  
+- **Run in Eclipse**: In Eclipse, right-click `CrudApplication.java` → *Run As > Spring Boot App*.  
+- **Access in Browser**: Open [http://localhost:8081/students/list](http://localhost:8081/students/list).  
 
 ## Contributing
 
