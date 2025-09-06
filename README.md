@@ -1,9 +1,6 @@
-# Java Student Course Management System
+🎓 Student Course Management System (Workshop Lead, VITMAS)
 
-This is a Student Course Management System built using **Java** and **Spring Boot**. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on student records. It uses **Maven** for dependency management and stores data in a **MySQL** database.
-
-The purpose of this project is to serve as a simple, clear example for learning how to build a full-stack Java application with a RESTful API and a front-end for data interaction.
-
+As Event Head at VITMAS (Mathematics Association), I led workshops at the intersection of applied mathematics and IT, including mathematical modeling sessions and a Student Course Management System workshop in Java. I guided students in building the system using Java, Spring Boot, Maven, and MySQL, enabling CRUD operations on student records. These initiatives fostered interdisciplinary collaboration and provided participants with hands-on experience in full-stack application development, blending mathematical problem-solving with practical IT solutions. The project also served as a learning-focused platform, demonstrating how to build a full-stack Java application with a RESTful API and a front-end for interactive data management, while effectively linking mathematical applications to IT-based solutions.
 ## Features
 
 * **Create**: Add new student records.
