@@ -91,6 +91,20 @@ If you'd like to contribute, please fork the repository and create a pull reques
 
 This project is open-source and available under the MIT License.
 
+## 📸 Project Snapshots  
+
+<p align="center">
+  <img src="./No Student Available.png" alt="No Student Available Screen" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./Add New Student.png" alt="Add New Student Screen" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./Student List.png" alt="Student List Screen" width="600"/>
+</p>
+
 ## Event Head at VITMAS (Mathematics Association)
 
 <p align="center">
