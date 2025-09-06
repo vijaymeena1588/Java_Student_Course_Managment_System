@@ -90,3 +90,6 @@ If you'd like to contribute, please fork the repository and create a pull reques
 ## License
 
 This project is open-source and available under the MIT License.
+
+![Event Head of VITMAS — Vijay Meena](./images/Event_Head_of_VITMAS.png)
+
