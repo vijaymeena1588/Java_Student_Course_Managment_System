@@ -91,6 +91,8 @@ If you'd like to contribute, please fork the repository and create a pull reques
 
 This project is open-source and available under the MIT License.
 
+## Event Head at VITMAS (Mathematics Association)
+
 <p align="center">
   <img src="./Event_Head_of_VITMAS.png" alt="Event Head of VITMAS — Vijay Meena" width="600"/>
 </p>
